@@ -1,0 +1,16 @@
+{
+  "main.css": "/singlePageAppExample/static/css/main.d60b7b5b.chunk.css",
+  "main.js": "/singlePageAppExample/static/js/main.86f1076a.chunk.js",
+  "main.js.map": "/singlePageAppExample/static/js/main.86f1076a.chunk.js.map",
+  "runtime~main.js": "/singlePageAppExample/static/js/runtime~main.c7e2441b.js",
+  "runtime~main.js.map": "/singlePageAppExample/static/js/runtime~main.c7e2441b.js.map",
+  "static/js/2.7e9e480d.chunk.js": "/singlePageAppExample/static/js/2.7e9e480d.chunk.js",
+  "static/js/2.7e9e480d.chunk.js.map": "/singlePageAppExample/static/js/2.7e9e480d.chunk.js.map",
+  "index.html": "/singlePageAppExample/index.html",
+  "precache-manifest.f2c7343adf04aec856d5185bc506d06c.js": "/singlePageAppExample/precache-manifest.f2c7343adf04aec856d5185bc506d06c.js",
+  "service-worker.js": "/singlePageAppExample/service-worker.js",
+  "static/css/main.d60b7b5b.chunk.css.map": "/singlePageAppExample/static/css/main.d60b7b5b.chunk.css.map",
+  "static/media/header1.jpg": "/singlePageAppExample/static/media/header1.3bee94ea.jpg",
+  "static/media/header2.jpg": "/singlePageAppExample/static/media/header2.459d8334.jpg",
+  "static/media/header3.jpg": "/singlePageAppExample/static/media/header3.f463926c.jpg"
+}
